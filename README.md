@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aryan3106/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Aryan3106/DSA/tree/master/0217-contains-duplicate) |
+| [2574-left-and-right-sum-differences](https://github.com/Aryan3106/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aryan3106/DSA/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Aryan3106/DSA/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
