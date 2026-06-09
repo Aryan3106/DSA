@@ -32,8 +32,10 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Aryan3106/DSA/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Aryan3106/DSA/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aryan3106/DSA/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Aryan3106/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
