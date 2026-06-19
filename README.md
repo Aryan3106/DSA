@@ -15,6 +15,7 @@
 | [0031-next-permutation](https://github.com/Aryan3106/DSA/tree/master/0031-next-permutation) |
 | [0217-contains-duplicate](https://github.com/Aryan3106/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aryan3106/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Aryan3106/DSA/tree/master/0485-max-consecutive-ones) |
 | [2574-left-and-right-sum-differences](https://github.com/Aryan3106/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
