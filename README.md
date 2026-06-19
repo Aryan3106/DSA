@@ -7,12 +7,14 @@
 | [0007-reverse-integer](https://github.com/Aryan3106/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aryan3106/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aryan3106/DSA/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Aryan3106/DSA/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryan3106/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan3106/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aryan3106/DSA/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/Aryan3106/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aryan3106/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Aryan3106/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aryan3106/DSA/tree/master/0485-max-consecutive-ones) |
@@ -37,6 +39,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan3106/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aryan3106/DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Aryan3106/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Aryan3106/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryan3106/DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
