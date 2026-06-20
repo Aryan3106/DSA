@@ -53,9 +53,14 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aryan3106/DSA/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Aryan3106/DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Aryan3106/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aryan3106/DSA/tree/master/0136-single-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Aryan3106/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
