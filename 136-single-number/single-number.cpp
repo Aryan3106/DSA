@@ -1,28 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-       int n = nums.size();
-
-       for(int i = 0 ; i < n ; i++){
-        bool foundDup = false; 
-
-        for(int j = 0 ; j < n ; j++){
-             if(i == j) continue; 
-
-        if(nums[i] == nums[j]){
-            foundDup = true ; 
-            break;
+        int result = 0 ; 
+        for(int num : nums){
+            result ^= num;
         }
-       }
-
-       if(!foundDup){
-        return nums[i];
-       }
-        
+        return result; 
     }
-    return -1;
-    }
-        
-
-       
 };
