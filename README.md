@@ -26,6 +26,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Aryan3106/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Aryan3106/DSA/tree/master/0704-binary-search) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryan3106/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan3106/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/Aryan3106/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -41,10 +42,12 @@
 | [0217-contains-duplicate](https://github.com/Aryan3106/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryan3106/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan3106/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan3106/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan3106/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/Aryan3106/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
@@ -67,6 +70,7 @@
 | [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Aryan3106/DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Aryan3106/DSA/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan3106/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,8 +84,13 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryan3106/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan3106/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Counting Sort
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryan3106/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan3106/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
