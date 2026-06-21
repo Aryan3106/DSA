@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/Aryan3106/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aryan3106/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Aryan3106/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0136-single-number](https://github.com/Aryan3106/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Aryan3106/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aryan3106/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aryan3106/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aryan3106/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Aryan3106/DSA/tree/master/0704-binary-search) |
@@ -28,10 +30,12 @@
 | [0001-two-sum](https://github.com/Aryan3106/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aryan3106/DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Aryan3106/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aryan3106/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -53,12 +57,14 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aryan3106/DSA/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Aryan3106/DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Aryan3106/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aryan3106/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 ## Interactive
 |  |
 | ------- |
