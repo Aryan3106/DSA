@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aryan3106/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Aryan3106/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Aryan3106/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Aryan3106/DSA/tree/master/0704-binary-search) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryan3106/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2574-left-and-right-sum-differences](https://github.com/Aryan3106/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -33,6 +34,7 @@
 | [0013-roman-to-integer](https://github.com/Aryan3106/DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Aryan3106/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Aryan3106/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Aryan3106/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Aryan3106/DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
