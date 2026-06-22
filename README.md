@@ -17,6 +17,7 @@
 | [0027-remove-element](https://github.com/Aryan3106/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aryan3106/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Aryan3106/DSA/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Aryan3106/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Aryan3106/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Aryan3106/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aryan3106/DSA/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aryan3106/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Aryan3106/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryan3106/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -55,6 +57,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan3106/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aryan3106/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aryan3106/DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Aryan3106/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Aryan3106/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Aryan3106/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryan3106/DSA/tree/master/0283-move-zeroes) |
