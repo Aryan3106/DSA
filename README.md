@@ -16,6 +16,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryan3106/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aryan3106/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Aryan3106/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aryan3106/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aryan3106/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Aryan3106/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Aryan3106/DSA/tree/master/0136-single-number) |
@@ -71,6 +72,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aryan3106/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aryan3106/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Aryan3106/DSA/tree/master/0278-first-bad-version) |
