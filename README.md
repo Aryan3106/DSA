@@ -34,6 +34,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Aryan3106/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan3106/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/Aryan3106/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryan3106/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryan3106/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@
 | [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan3106/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryan3106/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryan3106/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryan3106/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryan3106/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryan3106/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
