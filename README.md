@@ -19,6 +19,7 @@
 | [0031-next-permutation](https://github.com/Aryan3106/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan3106/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aryan3106/DSA/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Aryan3106/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Aryan3106/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aryan3106/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Aryan3106/DSA/tree/master/0136-single-number) |
@@ -134,10 +135,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aryan3106/DSA/tree/master/0053-maximum-subarray) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Aryan3106/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aryan3106/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aryan3106/DSA/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryan3106/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
