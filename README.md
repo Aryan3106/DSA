@@ -35,6 +35,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan3106/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan3106/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Aryan3106/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aryan3106/DSA/tree/master/0875-koko-eating-bananas) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aryan3106/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan3106/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryan3106/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -106,6 +107,7 @@
 | [0278-first-bad-version](https://github.com/Aryan3106/DSA/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan3106/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aryan3106/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Aryan3106/DSA/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan3106/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aryan3106/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
