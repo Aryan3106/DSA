@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/Aryan3106/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Aryan3106/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aryan3106/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
