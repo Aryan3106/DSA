@@ -99,6 +99,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aryan3106/DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Aryan3106/DSA/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Aryan3106/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryan3106/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryan3106/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryan3106/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -211,4 +212,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryan3106/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Aryan3106/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
