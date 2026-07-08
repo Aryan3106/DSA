@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/Aryan3106/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Aryan3106/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Aryan3106/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Aryan3106/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aryan3106/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aryan3106/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -106,6 +107,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Aryan3106/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Aryan3106/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryan3106/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/Aryan3106/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryan3106/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aryan3106/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -141,6 +143,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Aryan3106/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan3106/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryan3106/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/Aryan3106/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Counting Sort
 |  |
 | ------- |
