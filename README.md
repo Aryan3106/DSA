@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Aryan3106/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aryan3106/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aryan3106/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Aryan3106/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Aryan3106/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aryan3106/DSA/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryan3106/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -22,6 +23,7 @@
 | [0031-next-permutation](https://github.com/Aryan3106/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryan3106/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aryan3106/DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Aryan3106/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aryan3106/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan3106/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Aryan3106/DSA/tree/master/0075-sort-colors) |
@@ -222,6 +224,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aryan3106/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan3106/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryan3106/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aryan3106/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
