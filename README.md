@@ -48,6 +48,7 @@
 | [0704-binary-search](https://github.com/Aryan3106/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aryan3106/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryan3106/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/Aryan3106/DSA/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aryan3106/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Aryan3106/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryan3106/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -241,6 +242,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Aryan3106/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan3106/DSA/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/Aryan3106/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryan3106/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aryan3106/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryan3106/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -259,6 +261,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Aryan3106/DSA/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aryan3106/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryan3106/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
