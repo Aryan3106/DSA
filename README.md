@@ -13,6 +13,7 @@
 | [0486-predict-the-winner](https://github.com/Aryan3106/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan3106/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aryan3106/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Aryan3106/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aryan3106/DSA/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryan3106/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryan3106/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -60,6 +61,7 @@
 | [0875-koko-eating-bananas](https://github.com/Aryan3106/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Aryan3106/DSA/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aryan3106/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/Aryan3106/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Aryan3106/DSA/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aryan3106/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Aryan3106/DSA/tree/master/1288-remove-covered-intervals) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan3106/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/Aryan3106/DSA/tree/master/1140-stone-game-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Aryan3106/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/Aryan3106/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryan3106/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -236,6 +239,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryan3106/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Aryan3106/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan3106/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Aryan3106/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryan3106/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Aryan3106/DSA/tree/master/1406-stone-game-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aryan3106/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -348,5 +352,14 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aryan3106/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan3106/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Aryan3106/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aryan3106/DSA/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Aryan3106/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Aryan3106/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
